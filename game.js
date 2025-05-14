@@ -1,5 +1,5 @@
 
-const config = {
+const config = {game.js}
   type: Phaser.AUTO,
   width: 800,
   height: 600,
